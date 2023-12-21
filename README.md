@@ -1,16 +1,50 @@
-### Hi there 👋
+# Hi there, I'm Abdulla Al Saimun! 👋
 
-<!--
-**AbdullahSaimun/AbdullahSaimun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java Spring Boot developer with 1.5 years of hands-on experience in building robust and scalable applications using Java technologies. I also have expertise in microservices architecture, Material-UI for frontend development, and CI/CD with Jenkins.
 
-Here are some ideas to get you started:
+## 💼 Professional Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Java Spring Boot Developer** at [IBCS-Primax(Dhaka) (June 2022 - Present)
+  - Worked on a Bangladesh Police project that handled around 250K personnel. 
+  - Implemented microservices architecture for scalable and modular applications
+  - Utilized Material-UI for designing responsive and intuitive user interfaces
+  - Implemented CI/CD pipelines with Jenkins for automated builds and deployments
+
+## 🚀 Technologies & Tools
+
+Here are some technologies and tools I've worked with:
+
+- **Backend:**
+  - Java, Spring Boot
+  - Microservices Architecture
+  - RESTful APIs
+  - Database: Oracle, MySql, PostgreSQL
+
+- **Frontend:**
+  - React.js
+  - Material-UI
+  - HTML, CSS, JavaScript
+
+
+- **DevOps:**
+  - Jenkins (CI/CD)
+  - Docker
+
+- **Tools & Others:**
+  - Git, GitHub
+  - IntelliJ IDEA
+  - Maven
+
+## 🌱 Learning & Interests
+
+I am passionate about staying updated with the latest technologies and continuously enhancing my skills. Currently, I am exploring:
+
+- Node.js
+- Python Django Framework
+
+## 📫 Let's Connect!
+
+- LinkedIn: [https://www.linkedin.com/in/abdulla-al-saimun?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)
+
+
+## Feel free to explore my repositories and connect with me. I'm always open to collaboration and new opportunities!
