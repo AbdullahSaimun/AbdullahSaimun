@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Abdulla Al Saimun!
 
-I am a dedicated Java Spring Boot developer with around 1.5 years of hands-on experience, specializing in crafting robust and scalable applications using Java technologies. My expertise extends to microservices architecture, Material-UI for frontend development, and implementing CI/CD pipelines with Jenkins.
+I am a dedicated Java Spring Boot developer with around 2 years of hands-on experience, specializing in crafting robust and scalable applications using Java technologies. My expertise extends to microservices architecture, Material-UI for frontend development, and implementing CI/CD pipelines with Jenkins.
 
 ## 💼 Professional Experience
 
 - 🔧 **Java Spring Boot Developer** at [IBCS-Primax(Dhaka)](https://www.ibcs-primax.com/) (February 2022 - Present)
-  - Spearheaded the development of the Bangladesh Police project, managing a personnel base of around 250K.
+  - Spearheaded the development of the Bangladesh Police project called NGPIMS, managing a personnel base of around 250K.
   - Architected and implemented a microservices infrastructure for scalable and modular applications.
   - Employed Material-UI to design responsive and intuitive user interfaces.
   - Established CI/CD pipelines with Jenkins for automated builds and deployments.
@@ -14,6 +14,8 @@ I am a dedicated Java Spring Boot developer with around 1.5 years of hands-on ex
 
 ### Backend:
 - Java, Spring Boot
+- Spring data jpa
+- Hibernate
 - Microservices Architecture
 - RESTful APIs
 - Databases: Oracle, MySQL, PostgreSQL
@@ -38,6 +40,7 @@ I am passionate about staying abreast of the latest technologies and continuousl
 
 - Node.js
 - Python Django Framework
+- TypeScript
 
 ## 📫 Let's Connect!
 
