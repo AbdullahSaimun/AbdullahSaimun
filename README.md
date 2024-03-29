@@ -4,7 +4,7 @@ I am a dedicated Java Spring Boot developer with around 1.5 years of hands-on ex
 
 ## 💼 Professional Experience
 
-- 🔧 **Java Spring Boot Developer** at [IBCS-Primax(Dhaka)](https://www.ibcs-primax.com/) (August 2022 - Present)
+- 🔧 **Java Spring Boot Developer** at [IBCS-Primax(Dhaka)](https://www.ibcs-primax.com/) (February 2022 - Present)
   - Spearheaded the development of the Bangladesh Police project, managing a personnel base of around 250K.
   - Architected and implemented a microservices infrastructure for scalable and modular applications.
   - Employed Material-UI to design responsive and intuitive user interfaces.
