@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abdulla Al Saimun!
 
-I am a dedicated Java Spring Boot developer with around 2 years of hands-on experience, specializing in crafting robust and scalable applications using Java technologies. My expertise extends to microservices architecture, Material-UI for frontend development, and implementing CI/CD pipelines with Jenkins.
+I am a dedicated Java Spring Boot developer with 2 years of hands-on experience, specializing in crafting robust and scalable applications using Java technologies. My expertise extends to microservices architecture, Material-UI for front-end development, and implementing CI/CD pipelines with Jenkins.
 
 ## 💼 Professional Experience
 
@@ -26,13 +26,14 @@ I am a dedicated Java Spring Boot developer with around 2 years of hands-on expe
 - HTML, CSS, JavaScript
 
 ### DevOps:
-- Jenkins (CI/CD)
-- Docker
+- Jenkins (CI/CD) - Beginner Level
+- Docker - Beginner Level
 
 ### Tools & Others:
 - Git, GitHub, GitLab
 - IntelliJ IDEA
 - Maven
+- DataGrip
 
 ## 🌱 Learning & Interests
 
@@ -44,7 +45,8 @@ I am passionate about staying abreast of the latest technologies and continuousl
 
 ## 📫 Let's Connect!
 
-- Resume: [My Resume](https://abdullahsaimun.github.io/my-resume/)
-- LinkedIn: [Abdulla Al Saimun](https://www.linkedin.com/in/abdulla-al-saimun)
+- <a href="https://abdullahsaimun.github.io/my-resume/" target="_blank">My Resume</a>
+- <a href="https://www.linkedin.com/in/abdulla-al-saimun" target="_blank">LinkedIn: Abdulla Al Saimun</a>
+
   
-Feel free to explore my repositories and connect with me. I am always open to collaboration and new opportunities!
+Please feel free to explore my repositories and reach out to me. I am always open to collaboration and new opportunities!
