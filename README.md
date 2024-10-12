@@ -45,8 +45,7 @@ I am passionate about staying abreast of the latest technologies and continuousl
 
 ## 📫 Let's Connect!
 
-- <a href="https://abdullahsaimun.github.io/my-resume/" target="_blank">My Resume</a>
-- <a href="https://www.linkedin.com/in/abdulla-al-saimun" target="_blank">LinkedIn: Abdulla Al Saimun</a>
-
+- Resume: [My Resume](https://abdullahsaimun.github.io/my-resume/)
+- LinkedIn: [Abdulla Al Saimun](https://www.linkedin.com/in/abdulla-al-saimun)
   
-Please feel free to explore my repositories and reach out to me. I am always open to collaboration and new opportunities!
+Please feel free to explore my repositories and let me know. I am always open to collaboration and new opportunities!
