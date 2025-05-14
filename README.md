@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abdulla Al Saimun
 
-I am a dedicated **Java Spring Boot Developer** with 2 years of hands-on experience, specializing in crafting robust and scalable applications. I excel in **microservices architecture**, using **CI/CD pipelines**, and utilizing **Material-UI** for front-end development.
+I am a dedicated **Java Spring Boot Developer** with almost **3 years** of hands-on experience, specializing in crafting robust and scalable applications. I excel in **microservices architecture**, using **CI/CD pipelines**, and utilizing **Material-UI** for front-end development.
 
 ## 💼 Professional Experience
 
