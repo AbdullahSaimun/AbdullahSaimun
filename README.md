@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abdulla Al Saimun
 
-I am a dedicated **Java Spring Boot Developer** with almost **3 years** of hands-on experience, specializing in crafting robust and scalable applications. I excel in **microservices architecture**, using **CI/CD pipelines**, and utilizing **Material-UI** for front-end development.
+I am a dedicated **Java Spring Boot Developer** with almost **3 years** of hands-on experience, specializing in crafting robust and scalable applications. I excel in **microservices architecture**, using **CI/CD pipelines**,  **Redis** for caching, **Apache Kafka** for event-driven systems and utilizing **Material-UI** for front-end development.
 
 ## 💼 Professional Experience
 
@@ -19,6 +19,7 @@ I am a dedicated **Java Spring Boot Developer** with almost **3 years** of hands
 - Microservices Architecture
 - RESTful APIs
 - Databases: Oracle, MySQL, PostgreSQL
+- Caching (Redis)
 
 ### Frontend:
 - React.js, Material-UI
@@ -32,6 +33,7 @@ I am a dedicated **Java Spring Boot Developer** with almost **3 years** of hands
 - Git, GitHub, GitLab
 - IntelliJ IDEA, DataGrip
 - Maven
+- Toad
 
 ## 🌱 Learning & Interests
 
